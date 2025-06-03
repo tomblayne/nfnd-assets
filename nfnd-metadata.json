@@ -2,5 +2,22 @@
   "name": "404 Coin",
   "symbol": "NFND",
   "description": "A meme coin for the lost and unfound. Built on Solana.",
-  "image": "https://tomblayne.github.io/nfnd-assets/nfnd-logo.png"
+  "seller_fee_basis_points": 0,
+  "image": "https://tomblayne.github.io/nfnd-assets/nfnd-logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://tomblayne.github.io/nfnd-assets/nfnd-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "EFvohc64NnugycEGo6GrFEGYx6DmueqFyEgTRuEwFX36",
+        "share": 100
+      }
+    ]
+  }
 }
