@@ -2,6 +2,6 @@
   "name": "404 Coin",
   "symbol": "NFND",
   "description": "The meme coin that never existed.",
-  "image": "https://github.com/tomblayne/nfnd-assets/nfnd-logo.png",
+  "image": "https://raw.githubusercontent.com/tomblayne/nfnd-assets/0822e56380b1285e19eaf429e49330e768e67b4b/nfnd-logo.png",
   "decimals": 9
 }
